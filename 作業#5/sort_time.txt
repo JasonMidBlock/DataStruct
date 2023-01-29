@@ -1,0 +1,8 @@
+	select sort bubble sort quick sort merge sort radix sort
+501	0	0	0	0	0
+
+502	0	0	0	0	0
+
+504	32	46	0	312	0
+
+505	15	94	16	438	15

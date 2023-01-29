@@ -1,0 +1,6 @@
+input 505 2 可能有問題 應該是quick sort 有問題
+
+
+struct 改為 last 前的字串
+		last 
+		last 後 直到\n的字串
